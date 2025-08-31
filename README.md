@@ -6,6 +6,12 @@
 
 ## 🚀 About Me
 I'm a full stack developer...
+## Demo
+
+Enter this link view my websilte
+
+[Demo](https://mohamedtw.github.io/lec7/)
+
 
 
 ## Installation
@@ -96,6 +102,4 @@ Answer 2
 Takes two numbers and returns the sum.
 
 
-## Demo
 
-Insert gif or link to demo
